@@ -1,0 +1,10 @@
+SearchRecpieIntent search for {RecpieQuery}
+SearchRecpieIntent find out {RecpieQuery}
+SearchRecpieIntent search for {RecpieQuery} near me
+
+AMAZON.NextIntent next step
+AMAZON.NextIntent next please
+
+AMAZON.PreviousIntent go back
+AMAZON.PreviousIntent go back a step 
+AMAZON.PreviousIntent previous step

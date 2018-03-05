@@ -1,0 +1,22 @@
+{
+  "intents": [
+    {
+      "intent": "SearchRecpieIntent",
+      "slots": [
+        {
+          "name": "RecpieQuery",
+          "type": "AMAZON.SearchQuery"
+        }
+      ]
+    },
+    {
+      "intent": "AMAZON.NextIntent"
+    },
+    {
+      "intent": "AMAZON.PreviousIntent"
+    },
+    {
+      "intent": "AMAZON.RepeatIntent"
+    }
+  ]
+}
